@@ -1,8 +1,10 @@
 # DFS-BFS-introduction
 depth first search / breadth first search
 Personal records dfs and bfs, which can be used as reference and learning materials..
-![BFS coding example](https://github.com/FIGHTERGEORGE/DFS-BFS-introduction/assets/167811390/310b3ca7-67a0-425a-9434-41e228277470)
-#_____BFS_____
+<img width="233" alt="微信图片_20240502220417" src="https://github.com/FIGHTERGEORGE/DFS-BFS-introduction/assets/167811390/1ddad9bb-891e-4e6a-b107-5d639d5655d1">
+
+
+****BFS****
 Add ‘0’ to queue,add ‘0’ to visited..
 QUEUE: 0
 VISITED: 0
@@ -52,9 +54,10 @@ CHESSBOARD TRAVERSAL (python)
 
 
 
-![DFS coding example](https://github.com/FIGHTERGEORGE/DFS-BFS-introduction/assets/167811390/928bffd6-531a-4e70-a437-fc5e99444cf7)
+<img width="233" alt="微信图片_20240502220417" src="https://github.com/FIGHTERGEORGE/DFS-BFS-introduction/assets/167811390/5669a7d9-3d99-4a35-b19e-de8432c3be35">
 
-#_____DFS_____
+
+****DFS****
 
 ADD ‘0’ to the stack.
 STACK: 0
