@@ -4,7 +4,7 @@ Personal records dfs and bfs, which can be used as reference and learning materi
 <img width="233" alt="微信图片_20240502220417" src="https://github.com/FIGHTERGEORGE/DFS-BFS-introduction/assets/167811390/1ddad9bb-891e-4e6a-b107-5d639d5655d1">
 
 
-****BFS****
+****BFS****---------------------------------------------------------------------------------------
 
 
 Add ‘0’ to queue,add ‘0’ to visited..
@@ -53,13 +53,13 @@ VISITED: 012365478
 
 FOR CODING:
 CHESSBOARD TRAVERSAL (python)
-
+---------------------------------------------------------------------------
 
 
 <img width="233" alt="微信图片_20240502220417" src="https://github.com/FIGHTERGEORGE/DFS-BFS-introduction/assets/167811390/5669a7d9-3d99-4a35-b19e-de8432c3be35">
 
 
-****DFS****
+****DFS****--------------------------------------------------------------
 
 ADD ‘0’ to the stack.
 STACK: 0
@@ -105,7 +105,7 @@ VISITED: 03587642
 Then,
 STACK: 
 VISITED: 035876421
-
+-----------------------------------------------------------------------------
 
 
 
